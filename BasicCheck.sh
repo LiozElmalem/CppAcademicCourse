@@ -7,7 +7,7 @@ arguments=${@:3}
 #  make mean to compile file
 #  more than it,the answer value of make need to equal 0
 #  for say success
-find Makefile
+find Makefile &> /dev/null
 if [[ $? -gt 0 ]]; then
 	exit 0;
 fi
