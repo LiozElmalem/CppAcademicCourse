@@ -1,12 +1,13 @@
 #!/bin/bash
-# this 3 variabales from the user input values
+# get 3 variabales from the user.
 dirPath=$1
 program=$2
 arguments=${@:3}
 
-#  make mean to compile file
-#  more than it,the answer value of make need to equal 0
-#  for say success
+#  we search the makefile file in the current path
+#  if the makefile doesn't exist the value be different from 0 and the script will exit. 
+#  else, the script will check compilation , Memory leaks and thread race.
+#  the script returns binary number that represent which of the tests work and who fail. 
 find Makefile &> /dev/null
 if [[ $? -gt 0 ]]; then
 	exit 0;
