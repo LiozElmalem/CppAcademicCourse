@@ -6,7 +6,7 @@
 
 ### Bar genish - 313174583
 
-this script helps us debugging (check compilation , Memory leaks and thread race) cpp file.
+this script helps us debugging (checks compilation , Memory leaks and thread race) cpp files.
 
 what is valgrind?
 
