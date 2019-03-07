@@ -6,7 +6,7 @@
 
 ### Bar genish - 313174583
 
-this assigment helps us to check compilation , Memory leaks and thread race.
+this script helps us debugging (check compilation , Memory leaks and thread race) cpp file.
 
 what is valgrind?
 
@@ -15,3 +15,5 @@ http://valgrind.org/
 what is thread race?
 
 https://en.wikipedia.org/wiki/Race_condition
+
+https://cdn-images-1.medium.com/max/1600/0*PjHq4AuTbMjXz7Gq.jpg
