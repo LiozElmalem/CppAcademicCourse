@@ -16,4 +16,4 @@ what is thread race?
 
 https://en.wikipedia.org/wiki/Race_condition
 
-https://cdn-images-1.medium.com/max/1600/0*PjHq4AuTbMjXz7Gq.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyxfg44sXaBsFZoZ50UhXDYqCyuIVl8_pBo7NeW5FCsAR9B25XsA
