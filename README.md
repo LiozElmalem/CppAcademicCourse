@@ -22,3 +22,5 @@ https://en.wikipedia.org/wiki/Race_condition
 running example:
 
 ![](https://github.com/Elmalem/CPP-Assigments/blob/master/fail.jpeg?raw=true)
+
+![](https://github.com/Elmalem/CPP-Assigments/blob/master/success.jpeg?raw=true)
