@@ -1,6 +1,6 @@
 # Linux Compilation Test
 
-### The tasks written by:
+### The task written by:
 
 ### Lioz elmalem - 205804693
 
