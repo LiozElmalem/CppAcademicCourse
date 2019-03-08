@@ -19,4 +19,6 @@ https://en.wikipedia.org/wiki/Race_condition
 
 ![](https://cdn-images-1.medium.com/max/1600/1*On4XLx1lPeEAvJLrmojd1g.jpeg)
 
+running example:
 
+![](https://github.com/Elmalem/CPP-Assigments/blob/master/fail.jpeg?raw=true)
