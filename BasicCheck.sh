@@ -8,6 +8,7 @@ arguments=${@:3}
 #  if the makefile doesn't exist the value be different from 0 and the script will exit. 
 #  else, the script will check compilation , Memory leaks and thread race.
 #  the script returns binary number that represent which of the tests work and who fail.
+cd $dirPath
 make &> /dev/null
 if [[ $? -gt 0 ]]; then
 	firstANS=1
