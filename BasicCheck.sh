@@ -22,7 +22,7 @@ if [[ $? -gt 0 ]]; then
 		 secondANS=0
 	 fi
 	 # valgrind-helgrind thread race check
-	 valgrind --tool=helgrind -q ./$program $arguments &> /dev/null
+	 valgrind --tool=helgrind --error-exitcode=3 -q ./$program $arguments &> /dev/null
 	 if [[ $? -gt 0 ]]; then
 		 thirdANS=1
 	 else
