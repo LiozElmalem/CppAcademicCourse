@@ -24,3 +24,5 @@ https://en.wikipedia.org/wiki/Race_condition
 ![](https://github.com/Elmalem/CPP-Assigments/blob/master/fail.jpeg?raw=true)
 
 ![](https://github.com/Elmalem/CPP-Assigments/blob/master/success.jpeg?raw=true)
+
+![](https://github.com/Elmalem/CPP-Assigments/blob/master/grade.JPG?raw=true)
