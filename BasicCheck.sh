@@ -12,7 +12,7 @@ cd $dirPath
 make &> /dev/null
 if [[ $? -gt 0 ]]; then
 	firstANS=1
-	exit 1
+	exit 7
  else
 	 firstANS=0
 	 # valgrind memory leak check
