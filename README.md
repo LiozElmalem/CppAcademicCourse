@@ -1,10 +1,12 @@
-# 1) Linux Compilation Test
+# CPP Assjgments:
 
-### The task written by:
+### The tasks written by:
 
 ### Lioz elmalem - 205804693
 
 ### Bar genish - 313174583
+
+### 1) Linux Compilation Test
 
 This script helps us debugging (checks compilation , Memory leaks and thread race) cpp files.
 
@@ -21,14 +23,14 @@ https://en.wikipedia.org/wiki/Race_condition
 
 ### Running example:
 
-![](https://github.com/Elmalem/CPP-Assigments/blob/master/fail.jpeg?raw=true)
-
-![](https://github.com/Elmalem/CPP-Assigments/blob/master/success.jpeg?raw=true)
-
 ![](https://github.com/Elmalem/CPP-Assigments/blob/master/grade.JPG?raw=true)
 
 
-# 2) Binary Tree introduction in CPP
+# 2) Binary search tree
+
+what is binary search tree and how it works?
+
+https://www.geeksforgeeks.org/binary-search-tree-data-structure/
 
 this mission represents hpp and cpp files of binary tree,
 more of that is some simple test functions.
