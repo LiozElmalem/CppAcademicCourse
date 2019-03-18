@@ -6,6 +6,10 @@
 
 ### Bar genish - 313174583
 
+### Grades:
+
+![](https://github.com/Elmalem/CPP-Assigments/blob/master/%E2%80%8F%E2%80%8FGrade.JPG?raw=true)
+
 ### 1) Linux Compilation Test
 
 This script helps us debugging (checks compilation , Memory leaks and thread race) cpp files.
@@ -20,11 +24,6 @@ https://en.wikipedia.org/wiki/Race_condition
 
 
 ![](https://cdn-images-1.medium.com/max/1600/1*On4XLx1lPeEAvJLrmojd1g.jpeg)
-
-### Running example:
-
-![](https://github.com/Elmalem/CPP-Assigments/blob/master/grade.JPG?raw=true)
-
 
 # 2) Binary search tree
 
