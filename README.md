@@ -1,4 +1,4 @@
-#1) Linux Compilation Test
+# 1) Linux Compilation Test
 
 ### The task written by:
 
@@ -28,7 +28,7 @@ https://en.wikipedia.org/wiki/Race_condition
 ![](https://github.com/Elmalem/CPP-Assigments/blob/master/grade.JPG?raw=true)
 
 
-#2) Binary Tree introduction in CPP
+# 2) Binary Tree introduction in CPP
 
 this mission represents hpp and cpp files of binary tree,
 more of that is some simple test functions.
