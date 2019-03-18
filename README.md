@@ -36,4 +36,4 @@ this mission represents hpp and cpp files of binary tree,more of that is some si
 
 for now,this program can give some better ways to write begginer's binary tree examples.
 
-![]https://i.imgur.com/qasHfah.gif?noredirect)
+![](https://www.mathwarehouse.com/programming/images/binary-search-tree/optimal-binary-search-tree-from-sorted-array.gif)
