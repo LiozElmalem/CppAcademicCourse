@@ -152,15 +152,25 @@ int ariel::TreeNode::parent(int i) {
 }
 
 int ariel::TreeNode::left(int i) {
+    if(_left != NULL){
     if(_value == i) return _left->_value;
     else if(i<_value) return _left->left(i);
     else return _right->left(i);
+  }
+  else{
+    throw std::exception();
+  }
 }
 
 int ariel::TreeNode::right(int i) {
+    if(_right != NULL){
     if(_value == i) return _right->_value;
     else if(i<_value) return _left->right(i);
     else return _right->right(i);
+  }
+  else{
+    throw std::exception();
+  }
 }
 
 ariel::TreeNode* ariel::TreeNode::getByValue(int i) {
