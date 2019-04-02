@@ -8,7 +8,7 @@
 
 ### Grades:
 
-![](https://github.com/Elmalem/CPP-Assigments/blob/master/Grade.JPG?raw=true)
+![](https://github.com/Elmalem/CPP-Assigments/blob/master/Grades.JPG?raw=true)
 
 ### 1) Linux Compilation Test
 
