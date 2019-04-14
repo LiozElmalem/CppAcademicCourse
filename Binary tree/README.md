@@ -1,13 +1,3 @@
-# Binary_Tree
-present simple binary tree tutorial
-
-### Lioz elmalem - 205804693
-
-### Bar genish - 313174583
-
-### Grades:
-
-![](https://github.com/Elmalem/CPP-Assigments/blob/master/%E2%80%8F%E2%80%8FGrades.JPG?raw=true)
 #  Binary search tree
 
 what is binary search tree and how it works?
