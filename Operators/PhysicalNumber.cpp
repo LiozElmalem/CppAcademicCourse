@@ -313,7 +313,10 @@ istream& ariel::operator >> (istream & is,PhysicalNumber& f){
   double n_;
   int p1 = s.find('[');
   int p2 = s.find(']');
-  if(p1 == -1 || p2 == -1 || p1 > p2) return is;
+  if(p1 == -1 || p2 == -1 || p1 > p2){
+    cout <<"illegal input";
+    return is;
+  } 
   string num = s.substr(0,p1); // from the start to [
   string unit = s.substr(p1+1 ,p2 - p1 - 1); // from [ to ]
   try{
@@ -322,7 +325,10 @@ istream& ariel::operator >> (istream & is,PhysicalNumber& f){
   catch(exception& e){
     cout << e.what() << endl;
   }
-  if(num.compare("")==0)return is;
+  if(num.compare("")==0){
+    cout <<"illegal input";
+    return is;
+  }
   // LENGTH
   if( unit.compare("km") == 0 ) un_ = Unit::KM;
   else if( unit.compare("m") == 0 ) un_ = Unit::M;
@@ -335,7 +341,10 @@ istream& ariel::operator >> (istream & is,PhysicalNumber& f){
   else if( unit.compare("ton") == 0 ) un_ = Unit::TON;
   else if( unit.compare("kg") == 0 ) un_ = Unit::KG;
   else if( unit.compare("g") == 0 ) un_ = Unit::G;
-  else return is;
+  else {
+    cout <<"illegal input";
+    return is;
+  }
   f.unit = un_;
   f.n = n_;
   return is;
